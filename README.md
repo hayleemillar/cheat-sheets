@@ -1,4 +1,4 @@
-# symfony-encore-sheet
+# Symfony Encore Cheat Sheet
 A "Cheat Sheet" of commands for Symfony &amp; Encore.
 
 ### Documentation
