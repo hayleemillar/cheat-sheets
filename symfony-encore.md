@@ -2,7 +2,7 @@
 A "Cheat Sheet" of commands for Symfony &amp; Encore.
 
 ### Documentation
-__Symfony__: https://symfony.com/doc/current/index.html
+__Symfony__: https://symfony.com/doc/current/index.html  
 __Encore__: https://symfony.com/doc/current/frontend.html#encore-documentation
 
 ### Starting Symfony Web Application _locally_
@@ -10,8 +10,7 @@ __Encore__: https://symfony.com/doc/current/frontend.html#encore-documentation
 # start symfony web app
 symfony server:start
 ```
-
-
+    
 ### Building Encore Assets
 ```
 # build all at once
