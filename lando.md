@@ -19,9 +19,16 @@ lando start
 lando info
 ```
 
-### Starting an application
+### Accessing server-hosted app
 ```bash
-lando rebuild
+lando ssh
+```
+Now you are within the working directory of your app.
+
+### Accessing app's database
+```bash
+lando ssh -s database
+mysql -u root
 ```
 
 ### Importing a Database
