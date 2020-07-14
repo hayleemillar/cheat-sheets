@@ -37,3 +37,9 @@ Move the database dump to the base directory of Lando project.
 ```bash
 lando db-import sql-file-name.sql
 ```
+
+### Clearing Cache
+When altering CSS, some lando projects need to have their cache cleared manually.
+```bash
+lando drush cc all
+```
